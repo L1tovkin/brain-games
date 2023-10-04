@@ -9,3 +9,6 @@
 
 ### Calculator
 [![asciicast](https://asciinema.org/a/QvyWuAasLevdhJUyXIVZQVf4l.svg)](https://asciinema.org/a/QvyWuAasLevdhJUyXIVZQVf4l)
+
+### Determination of the greatest common divisor
+[![asciicast](https://asciinema.org/a/CxKyJEWHPZ3YkjoB81zotL3hm.svg)](https://asciinema.org/a/CxKyJEWHPZ3YkjoB81zotL3hm)

@@ -4,7 +4,5 @@
 
 ## Demo
 <details><summary>brain-even</summary>
-
-[![brain-even](https://asciinema.org/a/KPV4e9Txy1WnJei4xjvxU6Q5f)  
-
+[![asciicast](https://asciinema.org/a/KPV4e9Txy1WnJei4xjvxU6Q5f.svg)](https://asciinema.org/a/KPV4e9Txy1WnJei4xjvxU6Q5f)
 </details>

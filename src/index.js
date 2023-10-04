@@ -14,7 +14,7 @@ const runGameEngine = (rule, getGameData) => {
   for (let i = 0; i < numberOfTries; i += 1) {
     const [task, rightAnswer] = getGameData();
     print(`Question: ${task}`);
-    const playerAnswer = getInput(`Your answer:`);
+    const playerAnswer = getInput('Your answer:');
 
     if (playerAnswer !== rightAnswer) {
       // prettier-ignore

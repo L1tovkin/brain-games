@@ -6,3 +6,6 @@
 
 ### Definition of an even number
 [![asciicast](https://asciinema.org/a/KPV4e9Txy1WnJei4xjvxU6Q5f.svg)](https://asciinema.org/a/KPV4e9Txy1WnJei4xjvxU6Q5f)
+
+### Calculator
+[![asciicast](https://asciinema.org/a/QvyWuAasLevdhJUyXIVZQVf4l.svg)](https://asciinema.org/a/QvyWuAasLevdhJUyXIVZQVf4l)
